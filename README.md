@@ -1,2 +1,2 @@
 # final-django-project
-coursera final project
+coursera final projects
